@@ -9,3 +9,4 @@ A starter project exploring foundational Large Language Model (LLM) interactions
 
 ### Prerequisites
 - Python 3.10+
+
